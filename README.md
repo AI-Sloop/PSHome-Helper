@@ -1,4 +1,5 @@
 # PSHome Helper
+**$\color{gold}{\textsf{[IMPORTANT: Code was generated with Grok AI and can be considered AI-SLOP... or in this case AI-SLOOP]}}$**
 
 A small Linux helper for PlayStation Home (Destination Home) on RPCS3 — a floating, always-on-top toolbar that sits at the top of the screen and opens popups for **Who is Online**, **Shop**, and **Rewards**.
 
