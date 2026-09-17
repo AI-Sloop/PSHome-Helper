@@ -33,7 +33,7 @@ Destination Home’s own setup guide is the right place to start:
 ## Run it
 
 ```bash
-python3 "PSHome Helper.py"
+python3 "PSHome-Helper.py"
 ```
 
 ## Or mark it executable and run it directly:
