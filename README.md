@@ -4,7 +4,7 @@ A small Linux helper for PlayStation Home (Destination Home) on RPCS3 — a floa
 
 Built with Linux in mind — mainly Linux Mint, and SteamOS if you are in desktop mode.
 
-This project is not affiliated with Destination Home or PlayStation. The script runs **outside** RPCS3 — start it first, then launch Home in the emulator.
+This project is NOT affiliated with Destination Home, YourPSHome or PlayStation. The script runs **outside** RPCS3 — start it first, then launch Home in the emulator.
 
 ---
 
